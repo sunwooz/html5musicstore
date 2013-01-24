@@ -1,0 +1,22 @@
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Price</th>
+      <th>Sample</th>
+    </tr>
+  </thead>
+  <tbody>
+  <% @musics.each do |f| %>
+    <tr>
+      <td><%= f.name %></td>
+      <td><%= f.description %></td>
+      <td>$<%= f.price %></td>
+      <td><%= audio_tag(f.song, :autoplay => false, :controls => true, :preload => 'auto') %></td>
+      <td><%= link_to 'Edit', edit_music_path(f), :class => 'btn btn-success' %></td>
+      <td><%= button_to 'Destroy', music_path(f), :class => 'btn btn-danger', :method => :delete %></td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>

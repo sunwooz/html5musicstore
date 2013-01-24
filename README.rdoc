@@ -1,0 +1,5 @@
+== Music store for client
+
+Didn't get the freelance job, but was fun working with html5 audio tag.
+
+http://desolate-crag-6326.herokuapp.com/
