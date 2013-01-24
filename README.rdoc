@@ -2,7 +2,7 @@
 
 == Features
 
-* All songs are stored in amazon.s3
+* All songs are stored on amazon.s3
 
 == Goals
 
