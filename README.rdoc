@@ -1,6 +1,6 @@
 == Html5 Music Store
 
-== Features
+== Current Features
 
 * All songs are stored on amazon.s3
 
