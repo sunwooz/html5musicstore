@@ -6,7 +6,9 @@
 
 == Goals
 
-+ Stripe checkout/Paypal checkout/Amazon checkout
++ Stripe checkout
++ Paypal checkout
++ Amazon checkout
 + Asynchronous Upload
 
-http://desolate-crag-6326.herokuapp.com/
+Working Demo @ http://desolate-crag-6326.herokuapp.com/
