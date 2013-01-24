@@ -1,5 +1,11 @@
-== Music store for client
+== Html5 Music Store
 
-Didn't get the freelance job, but was fun working with html5 audio tag.
+== Features
+
++ All songs are stored in amazon.s3
+
+== Goals
+
++ Stripe checkout/Paypal checkout/Amazon checkout
 
 http://desolate-crag-6326.herokuapp.com/
