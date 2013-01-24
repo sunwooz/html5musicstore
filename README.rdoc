@@ -7,5 +7,6 @@
 == Goals
 
 + Stripe checkout/Paypal checkout/Amazon checkout
++ Asynchronous Upload
 
 http://desolate-crag-6326.herokuapp.com/
