@@ -4,11 +4,13 @@
 
 * All songs are stored on amazon.s3
 
-== Goals
+== Goals(in order)
 
+* Javascript - Only plays one song at a time
+* Asynchronous Upload
 * Stripe checkout
 * Paypal checkout
 * Amazon checkout
-* Asynchronous Upload
+
 
 Working Demo @ http://desolate-crag-6326.herokuapp.com/
