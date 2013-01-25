@@ -13,4 +13,4 @@
 * Amazon checkout
 
 
-Working Demo @ http://desolate-crag-6326.herokuapp.com/
+Working Demo @ http://shielded-bayou-9755.herokuapp.com/musics/new
