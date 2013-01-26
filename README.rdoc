@@ -8,9 +8,7 @@
 
 * Javascript - Only plays one song at a time
 * Asynchronous Upload
-* Stripe checkout
-* Paypal checkout
-* Amazon checkout
+* Stripe, Paypal, Amazon Checkout
 
 
 Working Demo @ http://shielded-bayou-9755.herokuapp.com/musics/new
